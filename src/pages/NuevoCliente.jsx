@@ -22,6 +22,8 @@ export async function action({ request }) {
   // Retornar datos si hay errores
   if (Object.keys(errores).length) {
     return errores;
+  } else {
+    return null
   }
 }
 
