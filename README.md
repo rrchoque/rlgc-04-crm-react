@@ -37,5 +37,4 @@ $ npm run dev
 # build
 $ npm run build
 ```
-
-![Captura de pantalla](<images/Captura desde 2023-06-21 23-48-02.png>)
+![Captura de pantalla](images/captura-001.webp)
